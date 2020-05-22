@@ -11,10 +11,8 @@ import (
 	"os"
 	"os/signal"
 
-
 	"github.com/effenco/can"
 	"golang.org/x/sys/unix"
-
 )
 
 var i = flag.String("if", "", "network interface name")
