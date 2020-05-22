@@ -1,4 +1,4 @@
-package can
+package go-can
 
 // The Handler interfaces defines a method to receive a frame.
 type Handler interface {

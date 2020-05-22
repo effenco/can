@@ -1,4 +1,4 @@
-package can
+package go-can
 
 import "syscall"
 
