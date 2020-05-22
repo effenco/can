@@ -1,4 +1,4 @@
-package can-go
+package can
 
 import (
 	"bytes"

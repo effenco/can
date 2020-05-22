@@ -1,4 +1,4 @@
-package go-can
+package can
 
 import (
 	"log"

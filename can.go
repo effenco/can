@@ -1,5 +1,5 @@
 // Package can provides an implemention of a CAN bus to send and receive CAN frames.
-package go-can
+package can
 
 const (
 	// MaskIDSff is used to extract the valid 11-bit CAN identifier bits from the frame ID of a standard frame format.
