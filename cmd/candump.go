@@ -11,7 +11,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/effenco/can"
+	"github.com/effenco/go-can"
 	"golang.org/x/sys/unix"
 )
 
