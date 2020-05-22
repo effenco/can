@@ -1,3 +1,4 @@
+
 module github.com/effenco/can
 
 require (
@@ -6,3 +7,4 @@ require (
 )
 
 go 1.13
+
